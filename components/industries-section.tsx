@@ -5,7 +5,7 @@ export function IndustriesSection() {
   const industries = [
     {
       category: "Zorg",
-      categoryColor: "bg-[#5B6FED]",
+      categoryColor: "primary",
       title: "Freelancers Zorg",
       description: "Specialistische boekhouding voor zorgverleners, fysiotherapeuten en andere freelancers in de zorg.",
       image: "/healthcare-professional.jpg",
@@ -38,7 +38,7 @@ export function IndustriesSection() {
           <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-[#1a1a1a]">Wij begrijpen jouw vakgebied</h2>
           <a
             href="#"
-            className="inline-flex items-center gap-2 text-[#5B6FED] border-2 border-[#5B6FED] px-6 py-3 rounded-lg hover:bg-[#5B6FED] hover:text-white transition-colors font-medium"
+            className="inline-flex items-center gap-2 text-[#5B6FED] border-2 border-[#5B6FED] px-6 py-3 rounded-lg hover:primary hover:text-white transition-colors font-medium"
           >
             Alle branches
             <ArrowRight className="w-5 h-5" />

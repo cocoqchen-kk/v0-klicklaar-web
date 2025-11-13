@@ -82,7 +82,7 @@ export default function LiveInsightSection() {
 
               {/* Phone Icon Card - bottom center */}
               <div className="absolute bottom-8 left-1/2 -translate-x-1/2 w-20 h-20 bg-white rounded-3xl shadow-xl flex items-center justify-center">
-                <div className="w-12 h-12 bg-[#5B6FED] rounded-2xl flex items-center justify-center">
+                <div className="w-12 h-12 primary rounded-2xl flex items-center justify-center">
                   <Phone className="w-6 h-6 text-white" />
                 </div>
               </div>

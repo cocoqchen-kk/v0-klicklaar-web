@@ -134,7 +134,7 @@ export default function PlatformFeaturesSection() {
 
         {/* CTA Button */}
         <div className="flex justify-center mt-12 lg:mt-16">
-          <Button className="bg-[#5B6FED] hover:bg-[#4654ea] text-white px-8 py-6 text-lg rounded-lg">
+          <Button className="primary hover:bg-[#4654ea] text-white px-8 py-6 text-lg rounded-lg">
             Probeer het platform
           </Button>
         </div>

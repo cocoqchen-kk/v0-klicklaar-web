@@ -20,7 +20,7 @@ export function CTASection() {
 
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center">
-            <button className="w-full sm:w-auto bg-[#5B6FED] hover:bg-[#4A5DD8] text-white font-semibold px-8 py-3.5 rounded-lg transition-colors duration-200">
+            <button className="w-full sm:w-auto primary hover:bg-[#4A5DD8] text-white font-semibold px-8 py-3.5 rounded-lg transition-colors duration-200">
               Plan een kennismaking
             </button>
             <button className="w-full sm:w-auto bg-transparent hover:bg-white border-2 border-[#5B6FED] text-[#5B6FED] font-semibold px-8 py-3.5 rounded-lg transition-colors duration-200">

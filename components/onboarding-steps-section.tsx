@@ -42,7 +42,7 @@ export default function OnboardingStepsSection() {
           {/* Step 1 */}
           <div className="relative">
             <div className="bg-[#E8EBFD] rounded-2xl p-8 md:p-10 text-center h-full flex flex-col items-center justify-start">
-              <div className="w-14 h-14 md:w-16 md:h-16 rounded-full bg-[#5B6FED] flex items-center justify-center text-white text-2xl md:text-3xl font-bold mb-6 md:mb-8 relative z-10">
+              <div className="w-14 h-14 md:w-16 md:h-16 rounded-full primary flex items-center justify-center text-white text-2xl md:text-3xl font-bold mb-6 md:mb-8 relative z-10">
                 1
               </div>
               <h3 className="text-xl md:text-2xl font-bold text-gray-900 mb-4">Kennismaken</h3>
@@ -107,7 +107,7 @@ export default function OnboardingStepsSection() {
 
         {/* CTA Button */}
         <div className="flex justify-center">
-          <button className="bg-[#5B6FED] hover:bg-[#4A5ED9] text-white font-semibold px-8 md:px-10 lg:px-12 py-3 md:py-4 rounded-lg text-base md:text-lg transition-colors">
+          <button className="primary hover:bg-[#4A5ED9] text-white font-semibold px-8 md:px-10 lg:px-12 py-3 md:py-4 rounded-lg text-base md:text-lg transition-colors">
             Start je onboarding
           </button>
         </div>

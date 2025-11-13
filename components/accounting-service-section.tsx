@@ -24,12 +24,12 @@ export default function AccountingServiceSection() {
 
               {/* Decorative circles */}
               <div className="absolute top-8 right-12 w-24 h-24 md:w-32 md:h-32 bg-[#E8E9F7] rounded-full opacity-60"></div>
-              <div className="absolute top-16 right-20 w-12 h-12 md:w-16 md:h-16 bg-[#5B6FED] rounded-full opacity-80"></div>
+              <div className="absolute top-16 right-20 w-12 h-12 md:w-16 md:h-16 primary rounded-full opacity-80"></div>
               <div className="absolute top-20 right-16 w-8 h-8 md:w-10 md:h-10 bg-[#C8CBD9] rounded-full opacity-50"></div>
 
               {/* Decorative bars at bottom */}
               <div className="absolute bottom-12 left-12 flex flex-col gap-2">
-                <div className="w-20 h-3 bg-[#5B6FED] rounded-full"></div>
+                <div className="w-20 h-3 primary rounded-full"></div>
                 <div className="w-24 h-3 bg-[#ED7461] rounded-full"></div>
               </div>
             </div>

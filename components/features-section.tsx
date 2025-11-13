@@ -79,7 +79,7 @@ export function FeaturesSection() {
             ))}
           </div>
 
-          <button className="w-full sm:w-auto bg-[#5B6FED] hover:bg-[#4A5DD8] text-white font-medium px-8 py-3.5 rounded-lg transition-colors">
+          <button className="w-full sm:w-auto primary hover:bg-[#4A5DD8] text-white font-medium px-8 py-3.5 rounded-lg transition-colors">
             Kennismaken
           </button>
         </div>
@@ -113,7 +113,7 @@ export function FeaturesSection() {
               ))}
             </div>
 
-            <button className="bg-[#5B6FED] hover:bg-[#4A5DD8] text-white font-medium px-10 py-3.5 rounded-lg transition-colors">
+            <button className="primary hover:bg-[#4A5DD8] text-white font-medium px-10 py-3.5 rounded-lg transition-colors">
               Kennismaken
             </button>
           </div>

@@ -5,7 +5,7 @@ export function DienstenCTASection() {
         <div className="text-center">
           {/* Top Badge */}
           <div className="flex justify-center mb-8">
-            <button className="bg-[#5B6FED] text-white text-sm font-semibold px-6 py-2.5 rounded-full hover:bg-[#4A5DD8] transition-colors duration-200">
+            <button className="primary text-white text-sm font-semibold px-6 py-2.5 rounded-full hover:bg-[#4A5DD8] transition-colors duration-200">
               Klaar om te starten?
             </button>
           </div>
@@ -25,7 +25,7 @@ export function DienstenCTASection() {
 
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12 lg:mb-16">
-            <button className="w-full sm:w-auto bg-[#5B6FED] hover:bg-[#4A5DD8] text-white font-semibold px-10 py-3.5 rounded-lg transition-colors duration-200 text-base lg:text-lg">
+            <button className="w-full sm:w-auto primary hover:bg-[#4A5DD8] text-white font-semibold px-10 py-3.5 rounded-lg transition-colors duration-200 text-base lg:text-lg">
               Kennismaken
             </button>
             <button className="w-full sm:w-auto bg-transparent hover:bg-white border-2 border-[#5B6FED] text-[#5B6FED] font-semibold px-10 py-3.5 rounded-lg transition-colors duration-200 text-base lg:text-lg">
