@@ -13,7 +13,7 @@ export default function BoekhoudingServiceSection() {
               <div className="w-16 h-16 rounded-2xl bg-blue-50 flex items-center justify-center">
                 <FileText className="w-8 h-8 text-[#5B6FED]" />
               </div>
-              <span className="inline-block px-6 py-2 rounded-full bg-[#5B6FED] text-white text-sm font-medium">
+              <span className="inline-block px-6 py-2 rounded-full primary text-white text-sm font-medium">
                 Service
               </span>
             </div>
@@ -64,7 +64,7 @@ export default function BoekhoudingServiceSection() {
             </div>
 
             {/* CTA Button */}
-            <button className="px-8 py-3 bg-[#5B6FED] text-white rounded-lg font-medium hover:bg-[#4A5ED8] transition-colors text-base md:text-lg">
+            <button className="px-8 py-3 primary text-white rounded-lg font-medium hover:bg-[#4A5ED8] transition-colors text-base md:text-lg">
               Kennismaking
             </button>
           </div>

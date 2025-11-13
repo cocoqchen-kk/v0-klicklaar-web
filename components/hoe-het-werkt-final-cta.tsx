@@ -16,10 +16,10 @@ export default function HoeHetWerktFinalCTA() {
 
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12 md:mb-16">
-            <button className="w-full sm:w-auto bg-[#5B6FED] text-white px-8 py-3.5 rounded-lg font-medium hover:bg-[#4A5FDC] transition-colors text-base md:text-lg">
+            <button className="w-full sm:w-auto primary text-white px-8 py-3.5 rounded-lg font-medium hover:bg-[#4A5FDC] transition-colors text-base md:text-lg">
               Plan Kennismaken
             </button>
-            <button className="w-full sm:w-auto bg-white text-[#5B6FED] px-8 py-3.5 rounded-lg font-medium border-2 border-[#5B6FED] hover:bg-[#5B6FED] hover:text-white transition-colors text-base md:text-lg">
+            <button className="w-full sm:w-auto bg-white text-[#5B6FED] px-8 py-3.5 rounded-lg font-medium border-2 border-[#5B6FED] hover:primary hover:text-white transition-colors text-base md:text-lg">
               Start vanaf €49,- pm.
             </button>
           </div>

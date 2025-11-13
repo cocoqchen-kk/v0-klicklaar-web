@@ -48,7 +48,7 @@ export default function PersonalAdvisorSection() {
               <div className="flex items-center justify-center w-14 h-14 bg-[#EEF0FD] rounded-xl">
                 <Users className="w-7 h-7 text-[#5B6FED]" />
               </div>
-              <span className="px-4 py-2 bg-[#5B6FED] text-white text-sm font-medium rounded-lg">Persoonlijk</span>
+              <span className="px-4 py-2 primary text-white text-sm font-medium rounded-lg">Persoonlijk</span>
             </div>
 
             {/* Heading */}
@@ -79,7 +79,7 @@ export default function PersonalAdvisorSection() {
             </div>
 
             {/* CTA Button */}
-            <button className="px-8 py-3 bg-[#5B6FED] text-white font-semibold rounded-lg hover:bg-[#4A5ED4] transition-colors duration-200 shadow-md hover:shadow-lg">
+            <button className="px-8 py-3 primary text-white font-semibold rounded-lg hover:bg-[#4A5ED4] transition-colors duration-200 shadow-md hover:shadow-lg">
               Kennismaking
             </button>
           </div>

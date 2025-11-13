@@ -333,7 +333,7 @@ export function Navigation() {
               >
                 Inloggen
               </Link>
-              <Button asChild className="w-full bg-[#5B6FED] hover:bg-[#4A5ED8] text-white">
+              <Button asChild className="w-full primary hover:bg-[#4A5ED8] text-white">
                 <Link href="/kennismaking" onClick={() => setMobileMenuOpen(false)}>
                   Kennismaking
                 </Link>

@@ -43,7 +43,7 @@ export default function OnzeBoekehoudersSection() {
 
             {/* CTA Button */}
             <div>
-              <button className="bg-[#5B6FED] text-white px-8 py-3 rounded-lg font-medium hover:bg-[#4A5FDC] transition-colors">
+              <button className="primary text-white px-8 py-3 rounded-lg font-medium hover:bg-[#4A5FDC] transition-colors">
                 Kennismaking
               </button>
             </div>

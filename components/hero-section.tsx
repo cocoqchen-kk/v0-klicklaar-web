@@ -20,7 +20,7 @@ export function HeroSection() {
             <Button
               asChild
               size="lg"
-              className="bg-[#5B6FED] hover:bg-[#4A5ED8] text-white px-8 py-3.5 text-base font-semibold rounded-lg"
+              className="primary hover:bg-[#4A5ED8] text-white px-8 py-3.5 text-base font-semibold rounded-lg"
             >
               <Link href="/start">Start vanaf €49,- p/m</Link>
             </Button>
@@ -28,7 +28,7 @@ export function HeroSection() {
               asChild
               variant="outline"
               size="lg"
-              className="border-2 border-[#5B6FED] text-[#5B6FED] hover:bg-[#5B6FED] hover:text-white px-8 py-3.5 text-base font-semibold bg-white rounded-lg"
+              className="border-2 border-[#5B6FED] text-[#5B6FED] hover:primary hover:text-white px-8 py-3.5 text-base font-semibold bg-white rounded-lg"
             >
               <Link href="/kennismaking">Plan kennismaking</Link>
             </Button>
