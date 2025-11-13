@@ -199,7 +199,7 @@ export function Navigation() {
             >
               Inloggen
             </Link>
-            <Button asChild className="bg-[#5B6FED] hover:bg-[#4A5ED8] text-white px-4 lg:px-6 text-sm lg:text-base">
+            <Button asChild className="primary hover:bg-[#4A5ED8] text-white px-4 lg:px-6 text-sm lg:text-base">
               <Link href="/kennismaking">Kennismaking</Link>
             </Button>
           </div>
